@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Phuwanate](phuwanate.lpk@gmail.com)
