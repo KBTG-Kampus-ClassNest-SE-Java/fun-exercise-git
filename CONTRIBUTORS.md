@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [ging](ging@github.com)
