@@ -1,2 +1,2 @@
 # Contributors
-- [ging](ging@github.com)
+- [Ariyawat](ariyawat@github.com)
