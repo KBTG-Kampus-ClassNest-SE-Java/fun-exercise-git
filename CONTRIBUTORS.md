@@ -1,2 +1,4 @@
 # Contributors
-- [Sommani](sommani@github.com)
+
+- [JeerawatNight](jeerawatNight@github.com)
+- [NightZzz](nightmelons@github.com)
