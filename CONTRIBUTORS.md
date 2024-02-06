@@ -1,2 +1,2 @@
 # Contributors
-- [Bumbim](aqualiux.nittha@gmail.com)
+- [Sommani](sommani@github.com)
